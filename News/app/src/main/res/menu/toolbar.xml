@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/uerFeedback"
+        app:showAsAction="collapseActionView"
+        android:title="用户反馈"
+        android:orderInCategory="110"/>
+    <item android:id="@+id/uerExit"
+        app:showAsAction="collapseActionView"
+        android:title="退出"
+        android:orderInCategory="100"/>
+</menu>
